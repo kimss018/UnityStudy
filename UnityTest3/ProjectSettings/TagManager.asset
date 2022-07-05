@@ -4,8 +4,10 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Enemy
   - ENEMY
+  - Taget1
+  - Taget2
+  - Taget3
   layers:
   - Default
   - TransparentFX
